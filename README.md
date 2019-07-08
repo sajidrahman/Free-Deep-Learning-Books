@@ -1,6 +1,6 @@
 # Free Deep Learning Books
 
-This is a curated collection of free Deep Learning related eBooks available on the Internet. Please feel free to share and learn.
+This is a curated collection of free Deep Learning related eBooks **freely available on the Internet**. Please feel free to share and learn.
 
 ~~You may visit [**Free-Machine-Learning-Books**](https://github.com/TechBookHunter/Free-Machine-Learning-Books) for general Machine Learning books.~~ **The Original Github repo from TechBookHunter is no longer available.**
 
