@@ -14,6 +14,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 
 * Deep Learning - A Practitioner's Approach [[Download]](/book/Deep%20Learning%20-%20A%20Practitioner%27s%20Approach.pdf)
 * Deep Learning - Ian Goodfellow, Yoshua Bengio, Aaron Courville [[Download]](/book/Deep%20Learning%20-%20Ian%20Goodfellow%2C%20Yoshua%20Bengio%2C%20Aaron%20Courville.pdf)
+* Deep Learning with Python (Keras framework) - Francois Chollet [[Download]](/book/Deep%20Learning%20With%20Python%20Chollet.pdf)
 * Deep Learning in Python [[Download]](/book/Deep%20Learning%20in%20Python.epub)
 * Deep Learning with Applications Using Python - Chatbots and Face, Object, and Speech Recognition With TensorFlow and Keras [[Download]](/book/Deep%20Learning%20with%20Applications%20Using%20Python%20-%20Chatbots%20and%20Face%2C%20Object%2C%20and%20Speech%20Recognition%20With%20TensorFlow%20and%20Keras.pdf)
 * Deep Learning with Hadoop [[Download]](/book/Deep%20Learning%20with%20Hadoop.epub)
